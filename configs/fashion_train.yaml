@@ -1,6 +1,6 @@
 data:
   dataset_name: fashion
-  path: data/fashionHQ_train/*.jpg
+  path: fashionHQ_train/*.jpg
   img_size: 256
   celebA_center_crop: False
 model:
